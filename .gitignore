@@ -1,1 +1,3 @@
 kernelci_api_key.py
+*.pyc
+*.ipynb_checkpoints
